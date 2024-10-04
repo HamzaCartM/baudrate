@@ -1,0 +1,15 @@
+^Meta$
+^doc$
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^README-.*\.png$
+^\.travis\.yml$
+^test$
+cran-comments.md
+NEWS.rmd
+NEWS.html
+internal
+vignettes/test_GCalignR*
+README.html
+^CRAN-SUBMISSION$
